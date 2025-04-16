@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sepehrDaemi
 - 👀 I’m interested in AI
-- 👀 I’m master's student in Artificial Intelligence
+- 🤖 I’m master's student in Artificial Intelligence
 - 🌱 I’m currently learning Python , Go , C# , .Net , Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my telegram or instagram usernam is @sepehrdaemi
